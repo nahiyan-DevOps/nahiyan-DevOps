@@ -1,4 +1,4 @@
-https://www.kaggle.com/<div align="center">
+<div align="center">
     <img src="https://www.teqfocus.com/wp-content/uploads/2021/03/Why-Cloud-and-DevOps-are-better-together.png"/>
 </div>
 <h1 align="center">Hello there 👋, I'm Nahiyan Mubashshir</h1>
