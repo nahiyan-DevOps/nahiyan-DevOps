@@ -1,4 +1,4 @@
-<div align="center">
+https://www.kaggle.com/<div align="center">
     <img src="https://www.teqfocus.com/wp-content/uploads/2021/03/Why-Cloud-and-DevOps-are-better-together.png"/>
 </div>
 <h1 align="center">Hello there 👋, I'm Nahiyan Mubashshir</h1>
@@ -47,7 +47,7 @@ Currently exploring devops culture. Working towards to be proficient in **Cloud 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nahiyan-mubashshir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahiyan-mubashshir/" height="30" width="40" /></a>
-<a href="[https://www.kaggle.com/](https://www.kaggle.com/nahiyan9912)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[https://www.kaggle.com/](https://www.kaggle.com/nahiyan9912)" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nahiyan9912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nahiyan9912" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nahiyanmubashsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nahiyanmubashsh1" height="30" width="40" /></a>
 </p>
 
