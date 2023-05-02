@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
     <img src="https://www.teqfocus.com/wp-content/uploads/2021/03/Why-Cloud-and-DevOps-are-better-together.png"/>
-</div>
+</div> -->
 <h1 align="center">Hello there 👋, I'm Nahiyan Mubashshir</h1>
 <h3 align="center">Enthusiast DevOps Engineer. Passionate about Cloud Technology and Data Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahiyan-devops&label=Profile%20views&color=0e75b6&style=flat" alt="nahiyan-devops" /> </p>
